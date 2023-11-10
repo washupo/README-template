@@ -15,5 +15,5 @@ Proin eu suscipit lorem. Nulla congue urna id dolor gravida facilisis. Aenean su
 
 # Development (quoi je dois faire pour le lancer en local dans ma machine)
 
-# Copyright 
-()[] - Source
+<!-- # Copyright 
+()[] - Source -->
